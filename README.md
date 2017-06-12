@@ -6,7 +6,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
-- [seaborn](git://github.com/mwaskom/seaborn.git#egg=seaborn)
+- [seaborn](http://github.com/mwaskom/seaborn.git#egg=seaborn)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
